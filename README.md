@@ -1,6 +1,6 @@
 <h1 align="left">Hello 👋, I'm Vijay</h1>
 <h3 align="left">A passionate Cybersecurity Engineer</h3>
-<img align="right" alt="security" width="250" src="https://raw.githubusercontent.com/vijay-maripi/Malicious-URL-Detector/master/project%20screens%20shots/giphy.gif">
+<img align="right" alt="security" width="245" src="https://raw.githubusercontent.com/vijay-maripi/Malicious-URL-Detector/master/project%20screens%20shots/giphy.gif">
 
     💻 I work for Deloitte as a Cybersecurity/IAM Engineer
     🌱 I’m currently learning Reverse Engineering, Cybersecurity with AI
