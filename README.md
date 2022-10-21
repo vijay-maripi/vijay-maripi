@@ -21,6 +21,7 @@
 <h3 align="left">Certifications:</h3>
 <a href="https://aspen.eccouncil.org/VerifyBadge?type=certification&a=2cZbZTiD8GhVl0rvWfbQ5S8pWgBEgpW7WEbHaWv5n9M=" target="_blank" rel="noreferrer"> <img src="https://aspen.eccouncil.org/Content/Badges/CertifiedBadges/CEH_2E345519D3F7.png" alt="CEH" width="100" height="100"/> </a>
 <a href="https://api.badgr.io/public/assertions/ecZ8CvsBTY24IFOnmThnhw" target="_blank" rel="noreferrer"> <img src="https://api.badgr.io/public/assertions/ecZ8CvsBTY24IFOnmThnhw/image" alt="SailPointIdentityNowEngineer" width="100" height="100"/> </a>
+<a href="https://api.badgr.io/public/assertions/r9T51wS2SpO9XymwYBonOA" target="_blank" rel="noreferrer"> <img src="https://api.badgr.io/public/assertions/r9T51wS2SpO9XymwYBonOA/image" alt="SailPointIdentityNowProfessional" width="100" height="100"/> </a>
 <a href="https://www.credly.com/badges/658f715b-9e5f-4cf0-b450-ca523d35b956/" target="_blank" rel="noreferrer"> <img src="https://images.credly.com/size/340x340/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" alt="AWSDeveloperAssociate" width="100" height="100"/> </a>
 <a href="https://www.credly.com/badges/9694faee-a139-40df-bfea-b143c05c95f3/" target="_blank" rel="noreferrer"> <img src="https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWSCloudPractitioner" width="100" height="100"/> </a>
 
